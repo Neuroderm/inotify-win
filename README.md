@@ -1,3 +1,7 @@
+FOR NEURODERM:
+===========
+Used for copying files between folders. See the documentation on the Folder Sync Tool 
+
 inotify-win
 ===========
 A port of the **inotifywait** tool for Windows, see https://github.com/rvoicilas/inotify-tools
